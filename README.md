@@ -1,3 +1,8 @@
+# Nuxt UI
+
+This is a nuxt web application user interface build using nuxt ui and tailwind css.
+It includes different pages and dashboard layouts with both dark and light modes.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
