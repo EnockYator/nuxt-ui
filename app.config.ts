@@ -1,3 +1,4 @@
+import type { _backgroundColor } from "#tailwind-config/theme";
 
 export default defineAppConfig({
     ui: {
@@ -8,8 +9,8 @@ export default defineAppConfig({
       button: {
         default: {
           size: 'sm',
-          color: 'gray',
-          variant: 'ghost'
+          color: 'primary',
+          variant: 'solid'
         },
       }
       
