@@ -1,6 +1,6 @@
 <template>
     <div class="grid w-screen text-white bg-blue-600 dark:bg-slate-900">
-        <div class="grid grid-cols-2 xsm:grid-cols-3 md:flex md:justify-evenly md:gap-32">
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:flex md:justify-evenly md:gap-32">
             <div class="px-6 py-2">
                 <p class="underline font-bold">Quick Links</p>
                 <ul class="space-y-2 text-sm md:text-base">
